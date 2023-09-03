@@ -6,7 +6,7 @@ Asus-prometheus-exporter uses a asus router's local endpoints to export the rout
 
 ## Example Grafana Dashboard
 
-![Example Grafana Dashboard](https://github.com/CipherDoc34/asus-prometheus-exporter/assets/63924539/643ff32e-1f0e-464b-a3a7-280c737a2e47)
+![Example Grafana Dashboard](https://github.com/CipherDoc34/asus-prometheus-exporter/blob/412bc2f5fb492b3dc9bbc109b12ff97b2cc75181/Example%20Grafana%20Dashboard.png)
 
 Asus-prometheus-exporter allows for passive collection of metrics without touching your routers configuration or using SNMP. Asus-prometheus-exporter utilizes the same endpoints that the routers homepage uses to display the status of the router and network.
 
